@@ -1,0 +1,2 @@
+# PictureStorage
+Image link generation
